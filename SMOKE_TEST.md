@@ -1,1 +1,0 @@
-# Smoke test from Claude Code via GitHub MCP - safe to delete
